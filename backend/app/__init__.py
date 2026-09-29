@@ -1,0 +1,1 @@
+"""AirIndex India application package."""
